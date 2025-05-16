@@ -11,13 +11,12 @@ The **MyAnatomy MERN Stack Course** covers the full development lifecycle of mod
 - **Express.js** – Web framework for Node.js
 - **React.js** – Front-end JavaScript library
 - **Node.js** – Server-side JavaScript runtime
+- **HTML and CSS** – Basic Knowledge Development
 
 ## 📂 Repository Structure
 
 The repository is organized by module and topic. Each folder represents a part of the course and may contain:
 
 - ✍️ Practice code
-- 📁 Mini-projects
 - 📝 Notes
-- 🧪 Assignments
 
